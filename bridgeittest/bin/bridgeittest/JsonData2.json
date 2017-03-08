@@ -1,0 +1,11 @@
+{
+	"data":[
+	{"Rice":[
+	{"name1":"Basmati","weight1":"5","price1":"50"},
+	{"name2":"Jasmine","weight2":"10","price2":"35"}]},
+	{"Pulses":[
+	{"name3":"Pigeon pea","weight3":"2","price3":"40"},
+	{"name4":"Green gram","weight4":"3","price4":"30"}]}
+	
+]
+}

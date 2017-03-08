@@ -1,0 +1,4 @@
+stockname="stocktest";
+stockprice=777;
+shares=34;
+shareprice=123456789;
